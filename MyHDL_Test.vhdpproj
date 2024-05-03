@@ -1,0 +1,8 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="MyHDL_Test.py" />
+    <File Include="hello_world.py" />
+    <File Include="writebuffer.py" />
+  </ItemGroup>
+  <PropertyGroup />
+</Project>
